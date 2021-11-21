@@ -1,3 +1,5 @@
+## the medium blog https://medium.com/@ahmad.j.alf/project-data-science-blog-post-students-data-6946d62b642c
+
 # Data Science Nanodegree project-1
 
 This project is A Blog Post for Data Scientist Nanodegree from Udacity. I worked on a students dataset containing 480 students, consisting of e.g.(gender, Nationality, Place of Birth, Semester). So I will ask some nice questions and answer them using python libraries (scikit-learn ,pandas, NumPy, matplotlib), And then I will make a machine learning model to predict a student’s final grade in a particular course.
