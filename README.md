@@ -1,6 +1,8 @@
 # Data Science Nanodegree project-1
 
 This project is A Blog Post for Data Scientist Nanodegree from Udacity. I worked on a students dataset containing 480 students, consisting of e.g.(gender, Nationality, Place of Birth, Semester). So I will ask some nice questions and answer them using python libraries (scikit-learn ,pandas, NumPy, matplotlib), And then I will make a machine learning model to predict a student’s final grade in a particular course.
+the dataset: https://www.kaggle.com/aljarah/xAPI-Edu-Data
+
 In this project, I asked 3 questions:
 
 ### How many males and females, and which of them is the most numerous?
