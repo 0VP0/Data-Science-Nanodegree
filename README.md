@@ -5,7 +5,7 @@ In this project, I asked 3 questions:
 
 ### How many males and females, and which of them is the most numerous?
 		Males    305
-		Females    175
+		Females  175
 	
 ### What are the most nationalities in this data?
 		KW           179
